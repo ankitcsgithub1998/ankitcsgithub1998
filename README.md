@@ -5,6 +5,6 @@
 
 <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
 
-<!-- [![Ankit's github status](https://github-readme-stats.vercel.app/api?username=ankitcsgithub1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitcsgithub1998&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Ankits's github status](https://github-readme-stats.vercel.app/api?username=ankitcsgithub1998&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ankits's github stats](https://github-readme-stats.vercel.app/api?username=ankitcsgithub1998&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
